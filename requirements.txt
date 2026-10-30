@@ -1,0 +1,6 @@
+# Python 3.14.8 (versions as printed by the notebook's Environment cell; ipykernel version from the environment that ran it)
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+openpyxl==3.1.5
+ipykernel==7.4.0
